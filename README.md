@@ -1,2 +1,2 @@
 ## Team Members
-- Іваненко Петро (GitHub: [ivanpetro](https://github.com/ivanpetro))
+матвій моток (GitHub: [ivanpetro](https://github.com/ivanpetro))
